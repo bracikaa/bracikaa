@@ -1,7 +1,12 @@
 ### Hi there 👋
 ### My name is Mehmed Duhovic.
-* Software Developer working for [Mistral Technologies](https://www.mistral.ba/)
-*
+* :computer: Software Developer working for [Mistral Technologies](https://www.mistral.ba/)
+* :mortar_board: Masters of Computer Science from [International University of Sarajevo](https://www.ius.edu.ba/)
+* :school: JavaScript Instructor
+
+### Contact Me:
+[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mehmedduh@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehmed-duhovic-7b066bb1/?originalSubdomain=ba)
 
 
 <!--
