@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### My name is Mehmed Duhovic.
-* :computer: Software Developer working for [Mistral Technologies](https://www.mistral.ba/)
+* :computer: Software Developer working for [Comtrade Solutions](https://www.comtrade.si/en/)
 * :mortar_board: Masters of Computer Science from [International University of Sarajevo](https://www.ius.edu.ba/)
 * :school: JavaScript Instructor
 
